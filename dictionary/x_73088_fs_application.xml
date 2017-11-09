@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Application" max_length="40" name="x_73088_fs_application" type="collection">
+        <element label="Application_Name" max_length="200" name="application_name" type="string"/>
+    </element>
+</database>
